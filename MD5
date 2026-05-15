@@ -1,6 +1,6 @@
-2987bcad957dfe3d0c3f91e312f7182a *DESCRIPTION
+98d9e160e7cc68090a679e900d0eff85 *DESCRIPTION
 dc0dde23599e2fc161f185ad0dcac6e3 *NAMESPACE
-2723df36cc67dfc45d0a8f91f07f6f8c *NEWS.md
+3f266818e729c7b0a0cde91e27051453 *NEWS.md
 3291f79f1ba719f250fd6633e4ebec49 *R/aggregateCorrespondenceTable.R
 a9b04fd9333b81b93a03bd7c42c042cb *R/analyseCorrespondanceTable.R
 45b9e6bebe776f9685866c980101239e *R/check_n_columns.R
@@ -132,7 +132,7 @@ ea0970490964dbc0f1d83b945f38f576 *inst/extdata/test/nomatch_test.csv
 f6bd9d480547ac91d1fe408ac1e46864 *inst/tinytest/test_analyseCorrespondenceTable.R
 fdab0fedbcec351c4608c792052dea68 *inst/tinytest/test_classificationQC.R
 24ef56b38385712accddd3dbdb97a626 *inst/tinytest/test_dataStructure.R
-c393454cd6ab84561be1c4bea3e20510 *inst/tinytest/test_newCorrespondenceTable.R
+aa8f2cb42474b5d16275ccd4ddc7a9d3 *inst/tinytest/test_newCorrespondenceTable.R
 677165d26469f52d67812549ac5aafac *inst/tinytest/test_prefixList.R
 bd3f50fcac1a3c04d94ff1550ebe5335 *inst/tinytest/test_retrieveClassificationTable.R
 3f68453f35346dc893e1e7de2a3b68f9 *inst/tinytest/test_retrieveCorrespondenceTable.R
